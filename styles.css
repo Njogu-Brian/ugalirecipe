@@ -1,0 +1,23 @@
+.header{
+    background-color: purple;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: x-large;
+}
+
+
+.intro{
+    border-radius: 20px;
+    background-color: rgb(226, 166, 221);
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+}
+
+.body{
+    background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
